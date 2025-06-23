@@ -1,0 +1,23 @@
+{
+  "name": "weatherapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankAgg06/weatherApplication2ndYrIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayankAgg06/weatherApplication2ndYrIT/issues"
+  },
+  "homepage": "https://github.com/mayankAgg06/weatherApplication2ndYrIT#readme",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}
